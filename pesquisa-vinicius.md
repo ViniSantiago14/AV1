@@ -68,3 +68,13 @@ O Visual Studio Code (VS Code) é um editor de código de código aberto desenvo
 - Ctrl + \ (backtick): Alternar entre o terminal integrado e o editor.
 
 <img src="https://www.alura.com.br/artigos/assets/vscode-extensoes-mais-usadas/vscode-extensoes-mais-usadas.png" alt="VS CODE" width="500px">
+
+### BIBLIOGRAFIA 
+
+https://chat.openai.com/
+
+https://www.dio.me/articles/principais-comandos-no-git-bash-voce-deve-saber
+
+https://www.dio.me/articles/qual-a-diferenca-entre-git-github-e-git-bash
+
+https://ebaconline.com.br/blog/o-que-e-github
